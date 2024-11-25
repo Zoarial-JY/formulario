@@ -67,11 +67,3 @@
 #--------------------------------------------------------------------
 
 # logger.threshold = 4
-
-DB_HOST=localhost
-DB_NAME=mi_base_datos
-DB_USER=root
-DB_PASSWORD=1234
-
-APP_NAME=Mi App MVC
-BASE_URL=http://localhost/formulario
